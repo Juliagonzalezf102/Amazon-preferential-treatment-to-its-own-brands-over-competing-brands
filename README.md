@@ -9,4 +9,4 @@ Find within 'scraped data' folder, a csv file for each product search containing
 Find within 'notebooks' folder, the notebook used to do scraping through API, the notebook that gives an alternative way of scraping using BeautifulSoup and the notebook where preprocessing and analysis is done.
 
 # Results
-
+The effect of positioning of Amazon brand products is found to be as large as 62% - 72% of that of sponsored products within the two first pages of search results. Moreover, the effect of self-preferencing is found to be larger when using polarity scores obtained from sentiment analysis of reviews instead of average rating, potentially revealing that the cost to the consumer of such practices is even larger when considering a more nuanced view of the product's value to the consumer.
